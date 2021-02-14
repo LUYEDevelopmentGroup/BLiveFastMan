@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FastBan", "FastBan\FastBan.csproj", "{3E370B9F-DB9F-49F7-85B8-7103172AF3C9}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BiliApi", "BiliApi.Net\BiliApi.csproj", "{23B92E33-A443-4058-B897-A9CD15CA6C40}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BiliveDanmakuAgent", "BiliveDanmakuAgent\BiliveDanmakuAgent.csproj", "{A9619E54-AA3B-4170-B545-2B3AEC3CF4CB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{3E370B9F-DB9F-49F7-85B8-7103172AF3C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3E370B9F-DB9F-49F7-85B8-7103172AF3C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3E370B9F-DB9F-49F7-85B8-7103172AF3C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23B92E33-A443-4058-B897-A9CD15CA6C40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23B92E33-A443-4058-B897-A9CD15CA6C40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23B92E33-A443-4058-B897-A9CD15CA6C40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23B92E33-A443-4058-B897-A9CD15CA6C40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9619E54-AA3B-4170-B545-2B3AEC3CF4CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9619E54-AA3B-4170-B545-2B3AEC3CF4CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9619E54-AA3B-4170-B545-2B3AEC3CF4CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9619E54-AA3B-4170-B545-2B3AEC3CF4CB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
